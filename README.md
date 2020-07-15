@@ -5,6 +5,8 @@ As a researcher, how would you go about finding work similar to your own? Measur
 
 Spatial information provides guidance for the ways in which people, places and topics can be meaningfully displayed and analysed. Spatialization embeds documents into a metaphorical space where documents in closer proximity can be perceived as similar. Different conceptualizations of similarity, such as geographic and topical, lend themselves to analysis through different spatializations with varying measures of distance. By spatializing information, researchers can compute on collections of research documents, asking questions like “Where in the world is the density of my domain’s research the highest?”, “Which domain is the most spatially diverse? or “What other research shares the same spatial neighborhood as my domain?”
 
+![Visualisation Demo](spatialised_interactivity.gif)
+
 ## Preliminary ideas
 The prevalence of globalisation has enabled researchers from all departments travel the world with great ease and share their findings within the university domain. For my final project, I want simultaneously display the geographic reach of departmental research published at UCSB, and develop a tool for the general public to interrogate Santa Barbara’s connection to other locations across the world. My strategy is inspired by the metaphor of global networks attributing cultures traditions and histories to different locales, and how researchers travel to investigate these cultural geographies and transfer those resources and knowledge to Santa Barbara. I aim to represent these flows of information from locations to UCSB within my visualisation.
 
